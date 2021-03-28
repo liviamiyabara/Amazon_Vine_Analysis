@@ -14,10 +14,12 @@ The second portion of this week's deliverable is to develop an analysis to under
 * How many Vine reviews and non-Vine reviews were there?
     
     There are 136 Vine reviews in the furniture dataset and 18,019 reviews from non-Vine members
+
     
 * How many Vine reviews were 5-stars? How many non-Vine reviews were 5-stars?
     
     There were 74 5-star reviews from Vine members and 8,482 5-star reviews from non-Vine members
+    
 
 * What percentage of Vine reviews were 5-stars? What percentage of non-Vine reviews were 5 stars?
     
