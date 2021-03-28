@@ -5,9 +5,9 @@ Module 16: Big Data
 
 In this week's challenge, the student analyzes Amazon reviews. There is a program called Amazon Vine, where sellers pay a small fee to Amazon and provide products to Amazon Vine memebers, who are then required to publish a review. 
 
-In the first section of the challenge, the student selected the Amazon review database for Furniture, the data is extracted from S3, transformed through Pyspark and then loaded to PG Admin.
+In the first section of the challenge, the student selected the Amazon review database for Furniture, the data is extracted from S3, transformed through Pyspark and then loaded to PG Admin. [Link to ETL code](https://github.com/liviamiyabara/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
 
-The second portion of this week's deliverable is to develop an analysis to understand if there is any bias toward favorable reviews from Vine (paid) members.
+The second portion of this week's deliverable is to develop an analysis to understand if there is any bias toward favorable reviews from Vine (paid) members. [Link to Review Analysis](https://github.com/liviamiyabara/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 
 ## Results
 
